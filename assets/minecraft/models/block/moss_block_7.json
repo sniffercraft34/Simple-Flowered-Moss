@@ -1,0 +1,6 @@
+{
+	"parent": "block/moss_block_0",
+	"textures": {
+		"moss": "block/moss_block_7"
+	}
+}
